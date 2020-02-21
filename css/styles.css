@@ -1,5 +1,6 @@
 #home{
-  
+  background-repeat: no-repeat;
+  width: 100%;
   text-align: center;
   height: 60vh;
   background-image: url("/images/h_img.jpg");
@@ -7,5 +8,17 @@ color: white;
 }
 
 #about{
+  text-align: center;
+  width:100%;
 
+
+}
+#services{
+  text-align: center;
+  width:100%;
+  background-image: url("/images/s_image.jpg");
+  color: white;
+  height: 40vh;
+  padding-top: 5%;
+  background-repeat: no-repeat;
 }
