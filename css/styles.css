@@ -1,16 +1,22 @@
 .mini-home{
+  background-image: url("/images/h_img.jpg");
+  height: 100vh;
+  background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-  background-image: url("/images/h_img.jpg");
+  padding-top: 30px;
+  line-height: 30px;
+  margin-bottom: 0px;
+}
+#fest{
   color: white;
-  padding-top: 30p%;
-  padding-bottom: 60px;
+  font-size: 2em;
 }
 
 #about{
   text-align: center;
-
-
+  padding-top: 50px;
+  font-size: 1.5em;
 }
 #services{
   text-align: center;
@@ -19,4 +25,17 @@
   padding-top: 5%;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 50px;
+  font-size: 1.5em;
+}
+#let{
+  text-align: center;
+}
+.foto{
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  justify-content: center;
+  
+  
 }
