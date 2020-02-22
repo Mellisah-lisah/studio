@@ -39,3 +39,17 @@
   
   
 }
+.portfolio1,
+.portfolio2,
+.portfolio3,
+.portfolio4,
+.portfolio5,
+.portfolio6,
+.portfolio7,
+.portfolio8,{
+ positon:relative;
+ display:flex;
+ justify-content:center;
+ aligh-items:center;
+ flex-direction:column;
+}
